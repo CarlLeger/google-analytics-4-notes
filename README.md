@@ -1,5 +1,3 @@
-# google-analytics-4-notes
-GA4 certification notes + practical tracking, audiences, attribution, Google Ads &amp; BigQuery
 # Google Analytics 4 — Practical Knowledge & Certification Notes
 
 This repository documents the **core knowledge and practical skills** I acquired while completing the **Google Analytics 4 Certification**.
@@ -15,12 +13,12 @@ It focuses on **real-world usage**, not theory only, and reflects how GA4 is act
 ## 🎯 Purpose
 
 The goal of this repository is to demonstrate:
-- a **clear understanding of GA4 fundamentals**
-- the ability to **configure, analyze, and interpret data**
-- practical readiness to **support real clients and real websites**
+- a clear understanding of GA4 fundamentals
+- the ability to configure, analyze, and interpret data
+- practical readiness to support real clients and real websites
 
 This is not a demo or a tutorial dump.  
-It is a **structured summary of applied GA4 knowledge**.
+It is a structured summary of applied GA4 knowledge.
 
 ---
 
@@ -40,6 +38,7 @@ It is a **structured summary of applied GA4 knowledge**.
 ---
 
 ## 👤 Data scope (critical)
+
 - **User scope** → long-term attributes (language, loyalty status, User-ID)
 - **Session scope** → visit-level context
 - **Event scope** → single interaction
@@ -120,7 +119,7 @@ Located in **Reports**:
 - Retention
 - Demographics & Technology
 
-These are **ready-to-use insights** for common business questions.
+These are ready-to-use insights for common business questions.
 
 ---
 
@@ -232,4 +231,3 @@ This documentation can be used as:
 - Client credibility proof
 - Freelance profile support
 - Internal analytics documentation
-
